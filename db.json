@@ -1,0 +1,29 @@
+{
+  "WeekDays": [
+      {
+        "id": 1,
+        "name": "Monday",
+        "date": "08-11-2021"
+      },
+      {
+        "id": 2,
+        "name": "Monday",
+        "date": "08-11-2021"
+      }
+  ],
+  "TypeMeal": [
+      {
+        "id": 1
+        "name": "meat"
+      },
+      {
+        "id": 2
+        "name": "fish"
+      },
+      {
+        "id": 3
+        "name": "vegan"
+      }
+        
+  ]
+}
