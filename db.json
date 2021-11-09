@@ -13,15 +13,15 @@
   ],
   "TypeMeal": [
       {
-        "id": 1
+        "id": 1,
         "name": "meat"
       },
       {
-        "id": 2
+        "id": 2,
         "name": "fish"
       },
       {
-        "id": 3
+        "id": 3,
         "name": "vegan"
       }
         
