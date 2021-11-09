@@ -11,7 +11,7 @@
         "date": "08-11-2021"
       }
   ],
-  "TypeMeal": [
+  "MealType": [
       {
         "id": 1,
         "name": "meat"
