@@ -7,8 +7,13 @@
       },
       {
         "id": 2,
-        "name": "Monday",
-        "date": "08-11-2021"
+        "name": "Tuesday",
+        "date": "09-11-2021"
+      },
+      {
+        "id": 3,
+        "name": "Wednsday",
+        "date": "10-11-2021"
       }
   ],
   "MealType": [
@@ -25,5 +30,31 @@
         "name": "vegan"
       }
         
-  ]
+  ],
+  "Users":[
+    {
+      "id": 1,
+      "firstName": "Test",
+      "lastName": "01",
+      "email": "test01@test.com",
+      "password": "test",
+      "type": "3"
+    }
+ ],
+  "Purchases":[
+    {
+      "id":1,
+      "mealId":1,
+      "userId":1
+    }
+  ],
+  "Meals":[
+    {
+      "id":1,
+      "weekdayId":1,
+      "mealTypeId":2,
+      "mainDish": "Bacalhau com natas",
+      "userLimit":75
+    }
+ ]
 }
