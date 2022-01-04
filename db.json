@@ -33,11 +33,12 @@
   ],
   "Users":[
     {
-      "id": 1,
-      "firstName": "Test",
+      "codUser": 1,
+      "name": "Test",
       "lastName": "01",
       "email": "test01@test.com",
       "password": "test",
+      "url":"https://cultivatedculture.com/wp-content/uploads/2019/12/Austin-Portrait-Taken-By-Professional-Photographer-683x1024.png",
       "type": "3"
     }
  ],
