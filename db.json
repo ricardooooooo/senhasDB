@@ -58,7 +58,9 @@
       "weekdayId":1,
       "mealTypeId":2,
       "mainDish": "Bacalhau com natas",
-      "userLimit":75
+      "userLimit":75,
+      "soup":"Caldo-Verde",
+      "desert":"Doce de Casa"
     }
  ]
 }
