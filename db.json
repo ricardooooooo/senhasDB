@@ -47,14 +47,14 @@
  ],
   "Purchases":[
     {
-      "id":1,
+      "codPurchase":1,
       "mealId":1,
       "userId":1
     }
   ],
   "Meals":[
     {
-      "id":1,
+      "codMeal":1,
       "weekdayId":1,
       "mealTypeId":2,
       "mainDish": "Bacalhau com natas",
