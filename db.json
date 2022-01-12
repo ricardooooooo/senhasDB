@@ -43,6 +43,15 @@
       "password": "test",
       "url":"https://cdn.discordapp.com/attachments/907285532403462165/927958803121573929/questionmark.jpg",
       "type": "3"
+    },
+    {
+      "codUser": 2,
+      "name": "Test2",
+      "lastName": "02",
+      "email": "test02@test.com",
+      "password": "test2",
+      "url":"https://cdn.discordapp.com/attachments/907285532403462165/927958803121573929/questionmark.jpg",
+      "type": "3"
     }
  ],
   "Purchases":[
