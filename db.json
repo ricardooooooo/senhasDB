@@ -21,15 +21,15 @@
   ],
   "MealType": [
       {
-        "id": 1,
+        "codMealType": 1,
         "name": "meat"
       },
       {
-        "id": 2,
+        "codMealType": 2,
         "name": "fish"
       },
       {
-        "id": 3,
+        "codMealType": 3,
         "name": "vegan"
       }
         
@@ -57,15 +57,15 @@
   "Purchases":[
     {
       "codPurchase":1,
-      "mealId":1,
-      "userId":1
+      "codMeal":1,
+      "codUser":1
     }
   ],
   "Meals":[
     {
       "codMeal":1,
-      "weekdayId":1,
-      "mealTypeId":2,
+      "codWeekday":1,
+      "codMealType":2,
       "mainDish": "Bacalhau com natas",
       "userLimit":75,
       "soup":"Caldo-Verde",
