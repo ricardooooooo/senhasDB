@@ -3,17 +3,17 @@
       {
         "codWeekday": 1,
         "name": "Monday",
-        "date": "08-11-2021",
+        "date": "08-11-2021"
       },
       {
         "codWeekday": 2,
         "name": "Tuesday",
-        "date": "09-11-2021",
+        "date": "09-11-2021"
       },
       {
         "codWeekday": 3,
         "name": "Wednsday",
-        "date": "10-11-2021",
+        "date": "10-11-2021"
       }       
   ],
   "Users":[
