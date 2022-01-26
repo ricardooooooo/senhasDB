@@ -17,22 +17,7 @@
         "name": "Wednsday",
         "date": "10-11-2021",
         "userLimit":"0"
-      }
-  ],
-  "MealType": [
-      {
-        "codMealType": 1,
-        "name": "meat"
-      },
-      {
-        "codMealType": 2,
-        "name": "fish"
-      },
-      {
-        "codMealType": 3,
-        "name": "vegan"
-      }
-        
+      }       
   ],
   "Users":[
     {
@@ -65,11 +50,18 @@
     {
       "codMeal":1,
       "codWeekday":1,
-      "codMealType":2,
       "mainDish": "Bacalhau com natas",
       "userLimit":75,
       "soup":"Caldo-Verde",
       "desert":"Doce de Casa"
-    }
+    },
+    {
+      "codMeal":2,
+      "codWeekday":1,
+      "mainDish": "Bitoque",
+      "userLimit":75,
+      "soup":"Canja",
+      "desert":"Pudim de Ovos"
+    },
  ]
 }
